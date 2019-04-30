@@ -10,10 +10,10 @@ If the "code" and "data" are within the same folder, and MATLAB
 is run from here, it should work.
 
 TOJ_shared
-| data
-    | a1355e
-    | 3ada8b
-    | 822e26
-| code
+- data
+    - a1355e
+    - 3ada8b
+    - 822e26
+- code
 
 Requirements: MATLAB >2014b, Signal Processing Toolbox
