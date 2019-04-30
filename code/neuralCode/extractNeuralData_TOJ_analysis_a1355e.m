@@ -41,7 +41,7 @@ for s = 1:2
     end
     
 end
-load(fullfile('a1355e_TOJ_matlab.mat'));
+load(fullfile(folderData,sid,'a1355e_TOJ_matlab.mat'));
 
 %% define what to epoch around for centering on stim trials 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

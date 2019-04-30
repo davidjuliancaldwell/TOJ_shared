@@ -28,7 +28,7 @@ fac = 2;
 
 stimChans = [4 3];
 
-load(fullfile('3ada8b_TOJ_matlab.mat'));
+load(fullfile(folderData,sid,'3ada8b_TOJ_matlab.mat'));
 
 %% define what to epoch around for centering on stim trials
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
